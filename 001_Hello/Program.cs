@@ -10,6 +10,7 @@ namespace _001_Hello
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hellow World");
         }
     }
 }
